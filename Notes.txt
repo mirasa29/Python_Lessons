@@ -1,0 +1,126 @@
+Higher order function
+- function that can take a function as an argument
+- also can return a function
+
+
+
+FOCUS TOPICS:
+- data structures: list, tuple, dictionary, set
+- Python lists, dicts, strings
+- basic Python syntax
+- file manipulation
+- exception handling
+
+SETUP REQUIREMENTS:
+    - Python3
+    - Pytest
+
+
+### data structures ###
+- list: ordered, mutable, allows duplicate elements
+- tuple: ordered, immutable, allows duplicate elements
+- dictionary: unordered, mutable, indexed, no duplicate elements
+- set: unordered, mutable, no duplicate elements
+
+### basic python syntax ###
+- variables
+
+- data types
+    string: "hello", 'hello'
+    int: 1, 2, 3
+    float: 1.0, 2.0, 3.0
+    boolean: True, False
+
+- operators
+    arithmetic: +, -, *, /, %, **, //
+    assignment: =, +=, -=, *=, /=, %=, **=, //=
+    comparison: ==, !=, >, <, >=, <=
+    logical: and, or, not
+    identity: is, is not
+    membership: in, not in
+    bitwise: &, |, ^, ~, <<, >>
+
+- loops
+    for loop
+    while loop
+
+- conditional statements
+    if, elif, else
+
+- functions
+    def function_name():
+        pass
+
+- classes
+    class ClassName:
+        def __init__(self):
+            pass
+
+- modules
+    import module_name
+    from module_name import function_name
+    from module_name import *
+
+- packages
+    - collection of modules
+    - directory with __init__.py file
+    - import package_name.module_name
+
+- libraries
+    - collection of packages
+    - pip install library_name
+    - import library_name
+
+
+
+
+
+
+
+
+
+
+
+
+# ideas
+- file manipulation:
+read a file, write to a file, append to a file
+read a csv file, write to a csv file
+read a csv file, write to a json file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+samp_str = 'To the Moon and back'
+
+samp_str.encode
+samp_str.replace()
+samp_str.split()
+samp_str.join()
+samp_str.upper()
+samp_str.lower()
+samp_str.strip()
+samp_str.lstrip()
+samp_str.rstrip()
+samp_str.rsplit()
+samp_str.rfind()
+samp_str.find()
+samp_str.partition()
+samp_str.swapcase()
+samp_str.translate()
+samp_str.startswith()
+samp_str.endswith()
+samp_str.isnumeric()

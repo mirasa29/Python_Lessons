@@ -1,0 +1,16 @@
+{
+    "title": "Yellowstone",
+    "seasons": 4,
+    "episodes": {
+        "season1": 9,
+        "season2": 10,
+        "season3": 10,
+        "season4": 10
+    },
+    "main_cast": {
+        "father": "Kevin Costner",
+        "son": "Luke Grimes",
+        "daughter": "Kelly Reilly"
+    },
+    "genre": "Drama"
+}
